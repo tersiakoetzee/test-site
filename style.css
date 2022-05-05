@@ -1,0 +1,66 @@
+#navbar {
+    background-color: Aqua;
+    text-align: center;
+    position: fixed;
+    transition: 1s;
+    width: 100%;
+  }
+  
+  .nav-link {
+    color: DarkSlateGrey;
+    font-size: 20px;
+    padding: 30px;
+  }
+  
+  #Home {
+    background-image: url("https://media.istockphoto.com/photos/mpty-room-with-illumination-picture-id1185671095?b=1&k=20&m=1185671095&s=170667a&w=0&h=TpkD1C4NVjV9vZE_n2LbgViaz_Hzt82ZnB-zg3cyG_A=");
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    padding: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0;
+    background-color: grey;
+  }
+  
+  h1 {
+    color: DarkSlateGrey;
+  }
+  
+  .c-site-header {
+    padding: 15px;
+    font-size: 30px;
+  }
+  
+  #About_Me {
+    height: 100vh;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 80px;
+    background-image: linear-gradient(DarkGrey, DeepSkyBlue, HotPink);
+  }
+  #list {
+    background: 		#7fff00;
+    font-size: 20px;
+    list-style-type: none;
+    margin: 5px;
+  }
+  
+  #Favorite_video {
+    height: 100vh;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 90px;
+    background-image: linear-gradient(red, DeepSkyBlue, HotPink);
+  }
+  
+  #Education {
+    height: 100vh;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 70px;
+    background-image: linear-gradient(AliceBlue, DeepSkyBlue, DarkSlateGrey);
+  }
